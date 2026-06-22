@@ -1,0 +1,6 @@
+{
+  "name": "Merci by Ana's",
+  "description": "Estudio interactivo de joyería personalizada. Diseña tu propia pulsera de charms italianos, collares de cuentas y accesorios únicos hechos a mano.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
